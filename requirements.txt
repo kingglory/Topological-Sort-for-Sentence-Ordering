@@ -1,0 +1,10 @@
+#Python 3.8.8
+#gensim==4.0.1
+#Keras==2.4.3
+nltk
+sklearn
+tensorboard==2.0.2
+torch==1.9.0
+torchaudio==0.9.0
+torchvision==0.10.0
+transformers==4.9.0
